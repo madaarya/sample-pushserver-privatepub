@@ -5,6 +5,6 @@
 # same token used in private_pub.yml of your rails project.
 
 production:
-  server: "http://pusher.crushpals.com/faye"
+  server: "http://YOUR_IP/faye"
   secret_token: "16ce50acc90a25645187b229c4835910903a38ca6815d0b8c0782fa41c69be1e"
   signature_expiration: 86400 # one day
